@@ -5,7 +5,6 @@ My newfound passion is in software development, where I like to spend time creat
 
 ## 🖥️ Work Experience
 - 👨‍💻 Software Engineer Intern at UnitedHealth Group - Jan 2023 to Jun 2023
-- 👨‍🏫 Undergraduate Teaching Assistant at UMN - Jan 2023 to Present
 - 📊 Data Analytics Intern at Mobalytics - Sep 2022 to Nov 2022
 
 ___
