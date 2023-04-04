@@ -5,6 +5,7 @@ Hi! I'm Brandon and I’m currently a Junior at the University of Minnesota stud
 My newfound passion is in software development, where I like to spend time creating personal projects. Some of my projects are Annote, a live-transcription digital notebook app, and my TFT Simulator and Calculator, which replicates Riot Games' Teamfight Tactics in-game shop system and uses hypergeometric distribution to calculate the percentage of hitting a specific unit. I’m most comfortable using Python, Java, SQL, and React.
 
 ## 🖥️ Work Experience
+- 🚀 Incoming Software Engineer at NASA - Jun 2023 to Aug 2023
 - 👨‍💻 Software Engineer Intern at UnitedHealth Group - Jan 2023 to Jun 2023
 - 📊 Data Analytics Intern at Mobalytics - Sep 2022 to Nov 2022
 
