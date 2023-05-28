@@ -31,4 +31,4 @@ My newfound passion is in software development, where I like to spend time creat
 </div>
 
 ___
-#### [Personal Website](https://www.brandonlam.dev/) - [LinkedIn](https://www.linkedin.com/in/brandon-nguyen-lam/) - [Email](mailto:brandonnguyenlam@gmail.com)
+#### [Personal Website](https://www.blam.dev/) - [LinkedIn](https://www.linkedin.com/in/brandon-nguyen-lam/) - [Email](mailto:brandonnguyenlam@gmail.com)
