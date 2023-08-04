@@ -1,10 +1,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Hi+I'm+Brandon;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+An+Aspiring+Software+Engineer)](https://git.io/typing-svg)
 
+<img align="right" alt="frog" src="https://cdn.betterttv.net/emote/61d1cf6e06fd6a9f5bdf08c9/3x.webp" padding-top="40" width="160"/>
 
 ## 🖥️ Work Experience
 - 🚀 Software Engineer at NASA - Jun 2023 to Aug 2023
 - 👨‍💻 Software Engineer Intern at UnitedHealth Group - Jan 2023 to Jun 2023
 - 📊 Data Analytics Intern at Mobalytics - Sep 2022 to Nov 2022
+
+## 📰 Celebrity Status
+- 🐱 [Day in the Life](https://www.codedex.io/blog/a-day-in-the-life-swe-intern-nasa-brandon-lam)
+- 🌙 [Supermodel Mode: Activated](https://www.nasa.gov/sites/default/files/atoms/files/ps-03787-07_af_july_2023_508v2.pdf)
 
 ## 🛠️ Languages and Tools
 <div>
