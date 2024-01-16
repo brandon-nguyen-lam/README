@@ -2,7 +2,7 @@
 <img align="right" alt="frog" src="https://cdn.betterttv.net/emote/61d1cf6e06fd6a9f5bdf08c9/3x.webp" padding-top="40" width="160"/>
 
 ## 🖥️ Work Experience
-- 🌐 Software Engineer Intern at Atlassian - May 2024 - Aug 2024
+- 🌐 Software Engineer Intern at Meta - May 2024 - Aug 2024
 - 🚗 Software Engineer Intern at Tesla - Jan 2024 - Apr 2024
 - 🚀 Software Engineer Intern at NASA - Jun 2023 to Aug 2023
 - 🏥 Software Engineer Intern at UnitedHealth Group - Jan 2023 to Jun 2023
