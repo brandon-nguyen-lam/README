@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%F0%9F%91%8B+Hi+I'm+Brandon;%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+I'm+a+software+engineer;%F0%9F%90%B8+I+like+frogs)](https://git.io/typing-svg)
-<img align="right" alt="frog" src="https://cdn.betterttv.net/emote/61d1cf6e06fd6a9f5bdf08c9/3x.webp" padding-top="40" width="160"/>
 
 ## 🖥️ Work Experience
 - 🌐 Software Engineer Intern at Meta - May 2024 - Aug 2024
